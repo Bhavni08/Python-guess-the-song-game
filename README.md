@@ -35,3 +35,9 @@ Enhanced GUI with themes and animations
 
 ## Author
 👩‍💻 Developed with ❤️ by Bhavni Chhabra
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71d610d0-4f58-4693-b47f-7eae92c9a8ce" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6703976c-309c-4bea-968b-d51195455961" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0aad25b7-7e20-4a56-b0bb-c2d23415ee6e" />
+
+
+
